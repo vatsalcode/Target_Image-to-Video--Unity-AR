@@ -1,4 +1,4 @@
-# Target Image to Video Unity-AR
+# Target Image to Video using Unity-AR
 We have create an augmented reality (AR) app using Unity and Vuforia - a popular game development engine you can download for free from www.unity3d.com. 
 
 #
